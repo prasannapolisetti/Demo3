@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "cache",
+    "type": "java.lang.String",
+    "description": "A description for 'cache'"
+  },
+  {
+    "name": "type",
+    "type": "java.lang.String",
+    "description": "A description for 'type'"
+  },
+  {
+    "name": "redis",
+    "type": "java.lang.String",
+    "description": "A description for 'redis'"
+  },
+  {
+    "name": "cache-null-values",
+    "type": "java.lang.String",
+    "description": "A description for 'cache-null-values'"
+  },
+  {
+    "name": "time-to-live",
+    "type": "java.lang.String",
+    "description": "A description for 'time-to-live'"
+  }
+]}
